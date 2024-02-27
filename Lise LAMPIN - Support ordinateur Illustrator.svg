@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.14 822.06">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #e52421;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-3 {
+        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-size: 27.05px;
+        font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+        font-family: StencilStd, 'Stencil Std';
+        font-size: 76px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M30,70.72L112.7,15.58C119.7,10.92,116.4,0,107.98,0H8.51C3.81,0,0,3.81,0,8.51v398.27h70.87v8.5H0v398.27c0,4.7,3.81,8.5,8.5,8.5h124.98c1.68,0,3.32-.5,4.72-1.43l103.93-69.29c3.19-2.12,4.56-6.11,3.36-9.75L26.64,80.47c-1.2-3.63.17-7.62,3.36-9.75Z"/>
+  <path class="cls-1" d="M272.13,8.51v805.04c0,4.7-3.81,8.5-8.5,8.5h-99.47c-8.41,0-11.72-10.91-4.72-15.58l88.09-58.73-110.06-332.46h68.32v-8.5h-70.87L24.6,74.31,133.93,1.43c1.4-.93,3.04-1.43,4.72-1.43h124.98c4.7,0,8.5,3.81,8.5,8.5Z"/>
+  <text class="cls-4" transform="translate(239.24 168.53) rotate(-90)"><tspan x="0" y="0">L L</tspan></text>
+  <g>
+    <circle class="cls-2" cx="107.24" cy="574.2" r="28.35"/>
+    <circle class="cls-2" cx="107.24" cy="611.33" r="28.35"/>
+    <circle class="cls-2" cx="107.24" cy="647.28" r="28.35"/>
+    <circle class="cls-2" cx="74.18" cy="593.35" r="28.35"/>
+    <circle class="cls-2" cx="74.18" cy="629.3" r="28.35"/>
+  </g>
+  <text class="cls-3" transform="translate(52.87 679.95) rotate(90) scale(.95 1)"><tspan class="cls-6" x="0" y="0">P</tspan><tspan x="16.86" y="0">a</tspan><tspan class="cls-7" x="31.98" y="0">r</tspan><tspan class="cls-8" x="42.53" y="0">i</tspan><tspan x="49.75" y="0">s </tspan><tspan class="cls-9" x="70.26" y="0">2</tspan><tspan class="cls-5" x="85.38" y="0">0</tspan><tspan class="cls-10" x="101.48" y="0">24</tspan></text>
+</svg>
